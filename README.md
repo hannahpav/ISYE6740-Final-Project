@@ -1,7 +1,7 @@
 ## Abstract
 This paper looks at the Brain Tumor: Extracted Features for Brain Tumor \cite{accurate-detection} dataset from kaggle and builds **KNN**, **Support Vector Machine**, **Neural Network**, **Naive Bayes**, Ra**ndom Forest**, and **XGBoost** models on the MRI images and different selections of the Extracted Features dataset, which interprets the images based on visual components described in this paper. The metrics were measured on accuracy and sensitivity, as the cost of missing a tumor is greater than the cost of finding a false tumor. Ultimately, we find that the Neural Network Model using Principal Component Selection on the Feature Set performed best on this dataset, while Naive Bayes performed the worst. 
 
-[Final Report]([https://github.com/hannahpav/foreclosure-study/blob/main/House%20Foreclosure%20Final%20Report.pdf](https://github.com/hannahpav/classification-methods-tumors-mri/blob/main/Final-Report-Tumor-Classification.pdf))
+[Final Report](https://github.com/hannahpav/classification-methods-tumors-mri/blob/main/Final-Report-Tumor-Classification.pdf)
 
 ## Variables
 **Variance** is a measure of the histogram width which represents the deviation of gray levels from the mean.
